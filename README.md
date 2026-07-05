@@ -1,2 +1,21 @@
-# python-expense-tracker
-A command-line Expense Tracker built with Python that allows users to add expenses, store them in a CSV file, view all expenses, and calculate the total amount spent.
+# Expense Tracker using Python
+
+## Description
+A command-line Expense Tracker built with Python.
+
+## Features
+- Add Expense
+- View Expenses
+- View Total Spent
+- Store data in a CSV file
+
+## Technologies Used
+- Python 3
+- CSV Module
+
+## Files
+- expense_tracker.py
+- expenses.csv
+
+## Author
+Devashish Yadav
